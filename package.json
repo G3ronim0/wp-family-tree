@@ -1,0 +1,25 @@
+{
+  "name": "wp-translations-pro",
+  "version": "1.0.0",
+  "description": "WP_Translations Plugin.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-wp-pot": "*"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/wp-translations-repo/wp-translations-pro"
+  },
+  "keywords": [
+    "theme"
+  ],
+  "author": "WP_Translations",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://wp-translations.org/contact"
+  },
+  "homepage": "https://wp-translations.org"
+}

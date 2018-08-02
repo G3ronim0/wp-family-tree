@@ -1,0 +1,233 @@
+# Copyright (C) 2018 wp-family-tree
+# This file is distributed under the same license as the wp-family-tree package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-family-tree\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-Msgid-Bugs-To: https://wp-translations.org\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: class.node.php:63, class.node.php:63, family-tree.php:237
+msgid "Male"
+msgstr ""
+
+#: class.node.php:65, class.node.php:65, family-tree.php:238
+msgid "Female"
+msgstr ""
+
+#: class.node.php:67, class.node.php:67
+msgid "Gender not specified"
+msgstr ""
+
+#: class.node.php:73, class.node.php:73, class.node.php:75, class.node.php:75
+msgid "View tree"
+msgstr ""
+
+#: class.node.php:79, class.node.php:181
+msgid "Born:"
+msgstr ""
+
+#: class.node.php:81, class.node.php:183
+msgid "Died:"
+msgstr ""
+
+#: class.node.php:86, family-tree.php:255
+msgid "Father:"
+msgstr ""
+
+#: class.node.php:90, class.node.php:97
+msgid "Unspecified"
+msgstr ""
+
+#: class.node.php:93, family-tree.php:242
+msgid "Mother:"
+msgstr ""
+
+#: class.node.php:100
+msgid "Children:"
+msgstr ""
+
+#: class.node.php:112, class.node.php:127
+msgid "none"
+msgstr ""
+
+#: class.node.php:115
+msgid "Siblings:"
+msgstr ""
+
+#: class.node.php:148
+msgctxt "The lastname"
+msgid "View information about %s."
+msgstr ""
+
+#: class.node.php:152
+msgctxt "The lastname"
+msgid "View the family of %s."
+msgstr ""
+
+#: family-tree.php:206
+msgid "Family tree info (optional)"
+msgstr ""
+
+#: family-tree.php:234
+msgid "Gender:"
+msgstr ""
+
+#: family-tree.php:240
+msgid "Born (YYYY-MM-DD):"
+msgstr ""
+
+#: family-tree.php:241
+msgid "Died (YYYY-MM-DD):"
+msgstr ""
+
+#: family-tree.php:268
+msgid "Spouse:"
+msgstr ""
+
+#: wpft_options.php:71
+msgid "Options saved."
+msgstr ""
+
+#: wpft_options.php:76
+msgid "WP Family Tree Options"
+msgstr ""
+
+#: wpft_options.php:89
+msgid "General settings"
+msgstr ""
+
+#: wpft_options.php:92
+msgid "Name of category for family members (default: \"Family\")"
+msgstr ""
+
+#: wpft_options.php:96
+msgid "Link to page with family tree"
+msgstr ""
+
+#: wpft_options.php:100
+msgid "Show biodata info on posts pages"
+msgstr ""
+
+#: wpft_options.php:105
+msgid "Credit link"
+msgstr ""
+
+#: wpft_options.php:109
+msgid "Show powered-by link"
+msgstr ""
+
+#: wpft_options.php:114
+msgid "Family tree options"
+msgstr ""
+
+#: wpft_options.php:117
+msgid "Wrap names"
+msgstr ""
+
+#: wpft_options.php:121
+msgid "Only show first name"
+msgstr ""
+
+#: wpft_options.php:125
+msgid "Show living dates"
+msgstr ""
+
+#: wpft_options.php:129
+msgid "Conceal living dates for those alive"
+msgstr ""
+
+#: wpft_options.php:133
+msgid "Show spouse"
+msgstr ""
+
+#: wpft_options.php:137
+msgid "Show only one spouse"
+msgstr ""
+
+#: wpft_options.php:141
+msgid "Display spouses vertically"
+msgstr ""
+
+#: wpft_options.php:151
+msgid "Show gender"
+msgstr ""
+
+#: wpft_options.php:155
+msgid "Diagonal connections"
+msgstr ""
+
+#: wpft_options.php:159
+msgid "Refocus on click"
+msgstr ""
+
+#: wpft_options.php:164
+msgid "Node navigation toolbar"
+msgstr ""
+
+#: wpft_options.php:165
+msgid "Each node in the family tree can have a toolbar which can show a number of additional options. Here you can define how the toolbar should work."
+msgstr ""
+
+#: wpft_options.php:168
+msgid "Enable toolbar"
+msgstr ""
+
+#: wpft_options.php:172
+msgid "Enable blogpage link"
+msgstr ""
+
+#: wpft_options.php:176
+msgid "Enable tree nav link"
+msgstr ""
+
+#: wpft_options.php:181
+msgid "Family tree styling"
+msgstr ""
+
+#: wpft_options.php:184
+msgid "Background colour (#rgb)"
+msgstr ""
+
+#: wpft_options.php:189
+msgid "Node outline colour (#rgb)"
+msgstr ""
+
+#: wpft_options.php:194
+msgid "Node fill colour (#rgb)"
+msgstr ""
+
+#: wpft_options.php:199
+msgid "Node opacity (0.0 to 1.0)"
+msgstr ""
+
+#: wpft_options.php:203
+msgid "Node text colour (#rgb)"
+msgstr ""
+
+#: wpft_options.php:207
+msgid "Node corner radius (pixels)"
+msgstr ""
+
+#: wpft_options.php:211
+msgid "Node minimum width (pixels)"
+msgstr ""
+
+#: wpft_options.php:215
+msgid "Height of generations (pixels)"
+msgstr ""
+
+#: wpft_options.php:225
+msgid "Save Changes"
+msgstr ""
+
+#: wpft_options.php:305
+msgid "You need to configure the WP Family Tree plugin and set the \"family tree link\" parameter in the administrator panel.\n\nThis parameter will tell the family tree plugin which page is used to display the main family tree. I.e, the page where you have put the [family-tree] shortcode.\n\n "
+msgstr ""
