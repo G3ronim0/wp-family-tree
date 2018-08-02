@@ -4,20 +4,26 @@
  * @author Arvind Shah
  * @version 1.0.6
  */
-/*
-Plugin Name: WP Family Tree
-Plugin URI: http://www.wpfamilytree.com/
-Description: Family Tree plugin
-Author: Arvind Shah
-Version: 1.0.6
-Author URI: http://www.esscotti.com/
-Text Domain: wp-family-tree
-Domain Path: /languages
-Copyright (c) 2010 - 2016 Arvind Shah
-WP Family Tree is released under the GNU General Public
-License (GPL) http://www.gnu.org/licenses/gpl.txt
 
-*/
+/**
+ * Plugin Name: WP Family Tree
+ * Plugin URI: http://www.wpfamilytree.com/
+ * Description: Family Tree plugin
+ * Author: Arvind Shah
+ * Version: 1.0.6
+ * Author URI: http://www.esscotti.com/
+ * Text Domain: wp-family-tree
+ * Domain Path: /languages
+ *
+ * Copyright (c) 2010 - 2016 Arvind Shah
+ * WP Family Tree is released under the GNU General Public
+ * License (GPL) http://www.gnu.org/licenses/gpl.txt
+ */
+
+defined( 'ABSPATH' ) or die( 'You don&#8217;t have permission to do this.' );
+
+load_plugin_textdomain( 'wp-family-tree', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );
+
 require_once('wpft_options.php');
 require_once('class.node.php');
 require_once('class.tree.php');
